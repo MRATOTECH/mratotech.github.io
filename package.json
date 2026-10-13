@@ -1,0 +1,14 @@
+{
+  "name": "mratotech",
+  "version": "1.0.0",
+  "description": "Tech Doyen, Designer, Developer, Photographer, Freelancer portfolio and blog.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "echo 'No build step required for static site'"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
